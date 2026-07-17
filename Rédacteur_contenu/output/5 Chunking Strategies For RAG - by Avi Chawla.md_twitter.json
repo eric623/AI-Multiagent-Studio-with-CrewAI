@@ -1,0 +1,27 @@
+{
+  "topic": "Rag Programs and Chunking Strategies",
+  "tweets": [
+    {
+      "content": "Start breaking down RAG programs into smaller pieces by identifying core ideas.",
+      "is_hook": false,
+      "media_urls": []
+    },
+    {
+      "content": "Apply chunking techniques to improve development efficiency!",
+      "is_hook": false,
+      "media_urls": []
+    },
+    {
+      "content": "Real-world examples show how best practices can boost productivity. Read more: https://www.rag.org/chunking-strategies-step-by-step [link]",
+      "is_hook": true,
+      "media_urls": [
+        "https://www.github.io/avichawl/chunking-st strategies"
+      ]
+    },
+    {
+      "content": "Best practice for writing code snippets like this one: https://www.example.com/how-to-implement-chunking-strategies [link]",
+      "is_hook": false,
+      "media_urls": []
+    }
+  ]
+}

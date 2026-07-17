@@ -1,0 +1,109 @@
+2026-07-16 22:01:30,906 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\AppData\Local\Temp\pytest-of-hp\pytest-0\test_save_json_and_markdown0\output\sample.json
+2026-07-16 22:01:30,907 | INFO | services.workflow_service | Saved markdown output to C:\Users\hp\AppData\Local\Temp\pytest-of-hp\pytest-0\test_save_json_and_markdown0\output\sample.md
+2026-07-16 22:05:12,197 | INFO | app | AI Multi-Agent Studio started
+2026-07-16 22:06:58,370 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\Desktop\BE\Fichiers\Les_projets\AI_agents_Courses\AI_MultiAgent_Studio\output\fact_checker_payload.json
+2026-07-16 22:06:58,372 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\Desktop\BE\Fichiers\Les_projets\AI_agents_Courses\AI_MultiAgent_Studio\output\fact_checker_payload.json
+2026-07-16 22:12:36,945 | INFO | app | AI Multi-Agent Studio started
+2026-07-16 22:13:08,866 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\Desktop\BE\Fichiers\Les_projets\AI_agents_Courses\AI_MultiAgent_Studio\output\social_content_payload.json
+2026-07-16 22:13:08,868 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\Desktop\BE\Fichiers\Les_projets\AI_agents_Courses\AI_MultiAgent_Studio\output\social_content_payload.json
+2026-07-16 22:15:49,735 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\Desktop\BE\Fichiers\Les_projets\AI_agents_Courses\AI_MultiAgent_Studio\output\book_writer_payload.json
+2026-07-16 22:15:49,739 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\Desktop\BE\Fichiers\Les_projets\AI_agents_Courses\AI_MultiAgent_Studio\output\fact_checker_payload.json
+2026-07-16 22:15:49,752 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\AppData\Local\Temp\pytest-of-hp\pytest-1\test_save_json_and_markdown0\output\sample.json
+2026-07-16 22:15:49,753 | INFO | services.workflow_service | Saved markdown output to C:\Users\hp\AppData\Local\Temp\pytest-of-hp\pytest-1\test_save_json_and_markdown0\output\sample.md
+2026-07-16 22:16:41,354 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\Desktop\BE\Fichiers\Les_projets\AI_agents_Courses\AI_MultiAgent_Studio\output\book_writer_payload.json
+2026-07-16 22:16:41,359 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\Desktop\BE\Fichiers\Les_projets\AI_agents_Courses\AI_MultiAgent_Studio\output\fact_checker_payload.json
+2026-07-16 22:16:41,371 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\AppData\Local\Temp\pytest-of-hp\pytest-2\test_save_json_and_markdown0\output\sample.json
+2026-07-16 22:16:41,373 | INFO | services.workflow_service | Saved markdown output to C:\Users\hp\AppData\Local\Temp\pytest-of-hp\pytest-2\test_save_json_and_markdown0\output\sample.md
+2026-07-16 22:22:46,742 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\Desktop\BE\Fichiers\Les_projets\AI_agents_Courses\AI_MultiAgent_Studio\output\book_writer_payload.json
+2026-07-16 22:22:46,746 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\Desktop\BE\Fichiers\Les_projets\AI_agents_Courses\AI_MultiAgent_Studio\output\fact_checker_payload.json
+2026-07-16 22:22:46,760 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\AppData\Local\Temp\pytest-of-hp\pytest-3\test_save_json_and_markdown0\output\sample.json
+2026-07-16 22:22:46,761 | INFO | services.workflow_service | Saved markdown output to C:\Users\hp\AppData\Local\Temp\pytest-of-hp\pytest-3\test_save_json_and_markdown0\output\sample.md
+2026-07-16 22:24:54,870 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\Desktop\BE\Fichiers\Les_projets\AI_agents_Courses\AI_MultiAgent_Studio\output\book_writer_payload.json
+2026-07-16 22:24:54,874 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\Desktop\BE\Fichiers\Les_projets\AI_agents_Courses\AI_MultiAgent_Studio\output\fact_checker_payload.json
+2026-07-16 22:24:54,887 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\AppData\Local\Temp\pytest-of-hp\pytest-4\test_save_json_and_markdown0\output\sample.json
+2026-07-16 22:24:54,888 | INFO | services.workflow_service | Saved markdown output to C:\Users\hp\AppData\Local\Temp\pytest-of-hp\pytest-4\test_save_json_and_markdown0\output\sample.md
+2026-07-16 22:26:22,222 | INFO | app | AI Multi-Agent Studio started
+2026-07-16 22:27:31,216 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\Desktop\BE\Fichiers\Les_projets\AI_agents_Courses\AI_MultiAgent_Studio\output\social_content_payload.json
+2026-07-16 22:33:25,665 | INFO | app | AI Multi-Agent Studio started
+2026-07-16 22:34:15,338 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\Desktop\BE\Fichiers\Les_projets\AI_agents_Courses\AI_MultiAgent_Studio\output\social_content_payload.json
+2026-07-16 22:44:06,251 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\Desktop\BE\Fichiers\Les_projets\AI_agents_Courses\AI_MultiAgent_Studio\output\social_content_payload.json
+2026-07-16 22:45:05,878 | INFO | app | AI Multi-Agent Studio started
+2026-07-16 22:45:44,404 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\Desktop\BE\Fichiers\Les_projets\AI_agents_Courses\AI_MultiAgent_Studio\output\social_content_payload.json
+2026-07-16 22:50:32,393 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\Desktop\BE\Fichiers\Les_projets\AI_agents_Courses\AI_MultiAgent_Studio\output\book_writer_payload.json
+2026-07-16 22:50:32,397 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\Desktop\BE\Fichiers\Les_projets\AI_agents_Courses\AI_MultiAgent_Studio\output\fact_checker_payload.json
+2026-07-16 22:50:32,411 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\AppData\Local\Temp\pytest-of-hp\pytest-5\test_save_json_and_markdown0\output\sample.json
+2026-07-16 22:50:32,412 | INFO | services.workflow_service | Saved markdown output to C:\Users\hp\AppData\Local\Temp\pytest-of-hp\pytest-5\test_save_json_and_markdown0\output\sample.md
+2026-07-16 22:51:04,832 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\Desktop\BE\Fichiers\Les_projets\AI_agents_Courses\AI_MultiAgent_Studio\output\book_writer_payload.json
+2026-07-16 22:51:04,842 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\Desktop\BE\Fichiers\Les_projets\AI_agents_Courses\AI_MultiAgent_Studio\output\fact_checker_payload.json
+2026-07-16 22:51:04,870 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\AppData\Local\Temp\pytest-of-hp\pytest-6\test_save_json_and_markdown0\output\sample.json
+2026-07-16 22:51:04,870 | INFO | services.workflow_service | Saved markdown output to C:\Users\hp\AppData\Local\Temp\pytest-of-hp\pytest-6\test_save_json_and_markdown0\output\sample.md
+2026-07-16 22:53:49,293 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\Desktop\BE\Fichiers\Les_projets\AI_agents_Courses\AI_MultiAgent_Studio\output\book_writer_payload.json
+2026-07-16 22:53:49,308 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\Desktop\BE\Fichiers\Les_projets\AI_agents_Courses\AI_MultiAgent_Studio\output\fact_checker_payload.json
+2026-07-16 22:53:49,341 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\AppData\Local\Temp\pytest-of-hp\pytest-7\test_save_json_and_markdown0\output\sample.json
+2026-07-16 22:53:49,342 | INFO | services.workflow_service | Saved markdown output to C:\Users\hp\AppData\Local\Temp\pytest-of-hp\pytest-7\test_save_json_and_markdown0\output\sample.md
+2026-07-16 22:55:58,959 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\Desktop\BE\Fichiers\Les_projets\AI_agents_Courses\AI_MultiAgent_Studio\output\book_writer_payload.json
+2026-07-16 22:55:58,963 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\Desktop\BE\Fichiers\Les_projets\AI_agents_Courses\AI_MultiAgent_Studio\output\fact_checker_payload.json
+2026-07-16 22:55:58,977 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\AppData\Local\Temp\pytest-of-hp\pytest-8\test_save_json_and_markdown0\output\sample.json
+2026-07-16 22:55:58,978 | INFO | services.workflow_service | Saved markdown output to C:\Users\hp\AppData\Local\Temp\pytest-of-hp\pytest-8\test_save_json_and_markdown0\output\sample.md
+2026-07-16 22:56:37,485 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\Desktop\BE\Fichiers\Les_projets\AI_agents_Courses\AI_MultiAgent_Studio\output\book_writer_payload.json
+2026-07-16 22:56:37,494 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\Desktop\BE\Fichiers\Les_projets\AI_agents_Courses\AI_MultiAgent_Studio\output\fact_checker_payload.json
+2026-07-16 22:56:37,518 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\AppData\Local\Temp\pytest-of-hp\pytest-9\test_save_json_and_markdown0\output\sample.json
+2026-07-16 22:56:37,519 | INFO | services.workflow_service | Saved markdown output to C:\Users\hp\AppData\Local\Temp\pytest-of-hp\pytest-9\test_save_json_and_markdown0\output\sample.md
+2026-07-16 22:58:53,376 | INFO | app | AI Multi-Agent Studio started
+2026-07-16 23:00:34,246 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\Desktop\BE\Fichiers\Les_projets\AI_agents_Courses\AI_MultiAgent_Studio\output\social_content_payload.json
+2026-07-16 23:05:46,728 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\Desktop\BE\Fichiers\Les_projets\AI_agents_Courses\AI_MultiAgent_Studio\output\book_writer_payload.json
+2026-07-16 23:05:46,732 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\Desktop\BE\Fichiers\Les_projets\AI_agents_Courses\AI_MultiAgent_Studio\output\fact_checker_payload.json
+2026-07-16 23:05:46,746 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\AppData\Local\Temp\pytest-of-hp\pytest-10\test_save_json_and_markdown0\output\sample.json
+2026-07-16 23:05:46,747 | INFO | services.workflow_service | Saved markdown output to C:\Users\hp\AppData\Local\Temp\pytest-of-hp\pytest-10\test_save_json_and_markdown0\output\sample.md
+2026-07-16 23:06:07,680 | INFO | app | AI Multi-Agent Studio started
+2026-07-16 23:07:32,692 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\Desktop\BE\Fichiers\Les_projets\AI_agents_Courses\AI_MultiAgent_Studio\output\social_content_payload.json
+2026-07-16 23:10:26,398 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\Desktop\BE\Fichiers\Les_projets\AI_agents_Courses\AI_MultiAgent_Studio\output\fact_checker_payload.json
+2026-07-16 23:16:32,934 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\Desktop\BE\Fichiers\Les_projets\AI_agents_Courses\AI_MultiAgent_Studio\output\book_writer_payload.json
+2026-07-16 23:16:32,939 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\Desktop\BE\Fichiers\Les_projets\AI_agents_Courses\AI_MultiAgent_Studio\output\fact_checker_payload.json
+2026-07-16 23:16:32,957 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\AppData\Local\Temp\pytest-of-hp\pytest-11\test_save_json_and_markdown0\output\sample.json
+2026-07-16 23:16:32,958 | INFO | services.workflow_service | Saved markdown output to C:\Users\hp\AppData\Local\Temp\pytest-of-hp\pytest-11\test_save_json_and_markdown0\output\sample.md
+2026-07-16 23:19:34,630 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\Desktop\BE\Fichiers\Les_projets\AI_agents_Courses\AI_MultiAgent_Studio\output\book_writer_payload.json
+2026-07-16 23:19:34,634 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\Desktop\BE\Fichiers\Les_projets\AI_agents_Courses\AI_MultiAgent_Studio\output\fact_checker_payload.json
+2026-07-16 23:19:34,648 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\AppData\Local\Temp\pytest-of-hp\pytest-12\test_save_json_and_markdown0\output\sample.json
+2026-07-16 23:19:34,649 | INFO | services.workflow_service | Saved markdown output to C:\Users\hp\AppData\Local\Temp\pytest-of-hp\pytest-12\test_save_json_and_markdown0\output\sample.md
+2026-07-16 23:19:54,517 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\Desktop\BE\Fichiers\Les_projets\AI_agents_Courses\AI_MultiAgent_Studio\output\book_writer_payload.json
+2026-07-16 23:19:54,525 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\Desktop\BE\Fichiers\Les_projets\AI_agents_Courses\AI_MultiAgent_Studio\output\fact_checker_payload.json
+2026-07-16 23:19:54,546 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\AppData\Local\Temp\pytest-of-hp\pytest-13\test_save_json_and_markdown0\output\sample.json
+2026-07-16 23:19:54,548 | INFO | services.workflow_service | Saved markdown output to C:\Users\hp\AppData\Local\Temp\pytest-of-hp\pytest-13\test_save_json_and_markdown0\output\sample.md
+2026-07-16 23:22:35,588 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\Desktop\BE\Fichiers\Les_projets\AI_agents_Courses\AI_MultiAgent_Studio\output\book_writer_payload.json
+2026-07-16 23:22:35,596 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\Desktop\BE\Fichiers\Les_projets\AI_agents_Courses\AI_MultiAgent_Studio\output\fact_checker_payload.json
+2026-07-16 23:22:35,617 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\AppData\Local\Temp\pytest-of-hp\pytest-14\test_save_json_and_markdown0\output\sample.json
+2026-07-16 23:22:35,618 | INFO | services.workflow_service | Saved markdown output to C:\Users\hp\AppData\Local\Temp\pytest-of-hp\pytest-14\test_save_json_and_markdown0\output\sample.md
+2026-07-16 23:31:36,179 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\Desktop\BE\Fichiers\Les_projets\AI_agents_Courses\AI_MultiAgent_Studio\output\book_writer_payload.json
+2026-07-16 23:31:36,184 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\Desktop\BE\Fichiers\Les_projets\AI_agents_Courses\AI_MultiAgent_Studio\output\fact_checker_payload.json
+2026-07-16 23:31:36,201 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\AppData\Local\Temp\pytest-of-hp\pytest-15\test_save_json_and_markdown0\output\sample.json
+2026-07-16 23:31:36,202 | INFO | services.workflow_service | Saved markdown output to C:\Users\hp\AppData\Local\Temp\pytest-of-hp\pytest-15\test_save_json_and_markdown0\output\sample.md
+2026-07-16 23:32:08,960 | INFO | app | AI Multi-Agent Studio started
+2026-07-16 23:35:32,770 | INFO | app | AI Multi-Agent Studio started
+2026-07-16 23:37:11,802 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\Desktop\BE\Fichiers\Les_projets\AI_agents_Courses\AI_MultiAgent_Studio\output\social_content_payload.json
+2026-07-16 23:38:41,519 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\Desktop\BE\Fichiers\Les_projets\AI_agents_Courses\AI_MultiAgent_Studio\output\social_content_payload.json
+2026-07-16 23:44:25,986 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\Desktop\BE\Fichiers\Les_projets\AI_agents_Courses\AI_MultiAgent_Studio\output\book_writer_payload.json
+2026-07-16 23:44:25,994 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\Desktop\BE\Fichiers\Les_projets\AI_agents_Courses\AI_MultiAgent_Studio\output\fact_checker_payload.json
+2026-07-16 23:44:26,017 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\AppData\Local\Temp\pytest-of-hp\pytest-16\test_save_json_and_markdown0\output\sample.json
+2026-07-16 23:44:26,019 | INFO | services.workflow_service | Saved markdown output to C:\Users\hp\AppData\Local\Temp\pytest-of-hp\pytest-16\test_save_json_and_markdown0\output\sample.md
+2026-07-16 23:44:54,687 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\Desktop\BE\Fichiers\Les_projets\AI_agents_Courses\AI_MultiAgent_Studio\output\book_writer_payload.json
+2026-07-16 23:44:54,692 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\Desktop\BE\Fichiers\Les_projets\AI_agents_Courses\AI_MultiAgent_Studio\output\fact_checker_payload.json
+2026-07-16 23:44:54,706 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\AppData\Local\Temp\pytest-of-hp\pytest-17\test_save_json_and_markdown0\output\sample.json
+2026-07-16 23:44:54,707 | INFO | services.workflow_service | Saved markdown output to C:\Users\hp\AppData\Local\Temp\pytest-of-hp\pytest-17\test_save_json_and_markdown0\output\sample.md
+2026-07-16 23:46:04,332 | INFO | app | AI Multi-Agent Studio started
+2026-07-16 23:48:12,094 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\Desktop\BE\Fichiers\Les_projets\AI_agents_Courses\AI_MultiAgent_Studio\output\social_content_payload.json
+2026-07-16 23:51:41,677 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\Desktop\BE\Fichiers\Les_projets\AI_agents_Courses\AI_MultiAgent_Studio\output\fact_checker_payload.json
+2026-07-16 23:59:36,268 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\Desktop\BE\Fichiers\Les_projets\AI_agents_Courses\AI_MultiAgent_Studio\output\book_writer_payload.json
+2026-07-16 23:59:36,278 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\Desktop\BE\Fichiers\Les_projets\AI_agents_Courses\AI_MultiAgent_Studio\output\fact_checker_payload.json
+2026-07-16 23:59:36,294 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\AppData\Local\Temp\pytest-of-hp\pytest-18\test_save_json_and_markdown0\output\sample.json
+2026-07-16 23:59:36,295 | INFO | services.workflow_service | Saved markdown output to C:\Users\hp\AppData\Local\Temp\pytest-of-hp\pytest-18\test_save_json_and_markdown0\output\sample.md
+2026-07-17 00:00:06,984 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\Desktop\BE\Fichiers\Les_projets\AI_agents_Courses\AI_MultiAgent_Studio\output\book_writer_payload.json
+2026-07-17 00:00:06,993 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\Desktop\BE\Fichiers\Les_projets\AI_agents_Courses\AI_MultiAgent_Studio\output\fact_checker_payload.json
+2026-07-17 00:00:07,012 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\AppData\Local\Temp\pytest-of-hp\pytest-19\test_save_json_and_markdown0\output\sample.json
+2026-07-17 00:00:07,013 | INFO | services.workflow_service | Saved markdown output to C:\Users\hp\AppData\Local\Temp\pytest-of-hp\pytest-19\test_save_json_and_markdown0\output\sample.md
+2026-07-17 00:00:37,994 | INFO | app | AI Multi-Agent Studio started
+2026-07-17 00:03:05,683 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\Desktop\BE\Fichiers\Les_projets\AI_agents_Courses\AI_MultiAgent_Studio\output\social_content_payload.json
+2026-07-17 00:06:35,309 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\Desktop\BE\Fichiers\Les_projets\AI_agents_Courses\AI_MultiAgent_Studio\output\fact_checker_payload.json
+2026-07-17 21:19:50,860 | INFO | app | AI Multi-Agent Studio started
+2026-07-17 21:23:17,824 | INFO | services.workflow_service | Saved JSON output to C:\Users\hp\Desktop\BE\Fichiers\Les_projets\AI_agents_Courses\AI_MultiAgent_Studio\output\book_writer_payload.json
+2026-07-17 21:27:23,240 | INFO | app | AI Multi-Agent Studio started

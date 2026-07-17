@@ -1,0 +1,18 @@
+analyze_draft:
+  description: |
+    Analyze the markdown file at {draft_path} to create a developer-focused technical overview.
+  expected_output: |
+    A technical analysis containing the blog title, core idea, key sections and key takeaways.
+
+create_twitter_thread_plan:
+  description: |
+    Develop an engaging Twitter thread based on the draft analysis provided.
+    The thread should break down complex technical concepts into digestible, tweet-sized chunks.
+  expected_output: |
+    A Twitter thread with a list of tweets containing content and is_hook.
+
+create_linkedin_post_plan:
+  description: |
+    Develop a comprehensive LinkedIn post based on the draft analysis provided.
+  expected_output: |
+    A LinkedIn post plan containing content and a main blog url.

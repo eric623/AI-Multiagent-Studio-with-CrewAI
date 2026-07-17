@@ -1,0 +1,12 @@
+[project]
+name = "ai-agents-courses"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "crewai>=1.15.2",
+    "crewai-tools>=1.15.2",
+    "firecrawl-py>=4.32.1",
+    "pyyaml>=6.0.3",
+]

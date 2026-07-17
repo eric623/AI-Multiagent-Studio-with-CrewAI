@@ -1,0 +1,74 @@
+{
+  "blog_post_url": "https://blog.dailydoseofds.com/p/5-chunking-strategies-for-rag",
+  "post_type": "twitter",
+  "draft_path": "assets/social_draft.md",
+  "markdown_excerpt": "[![Daily Dose of Data Science](https://substackcdn.com/image/fetch/$s_!heKx!,w_40,h_40,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc5dc1fee-2d1e-4892-b219-4b96f6998ab5_288x288.png)](https://blog.dailydoseofds.com/)\n\n# [Daily Dose of Data Science](https://blog.dailydoseofds.com/)\n\nSubscribeSign in\n\n![User's avatar](https://substackcdn.com/image/fetch/$s_!fRqh!,w_64,h_64,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa0dc0dc6-c4ff-4fe7-b467-bfb654e7dc6f_287x287.jpeg)\n\nDiscover more from Daily Dose of Data Science\n\nA free newsletter for continuous learning about data science and ML, lesser-known techniques, and how to apply them in 2 minutes. We keep",
+  "generated_content": "Here's a Twitter thread based on the provided analysis:\n\nTweet 1:\nThe future of text retrieval is about to get a whole lot more efficient! Introducing RAG (Relevance-Aware Generation) strategies, which use chunking techniques to improve accuracy and efficiency in AI models. Stay tuned for our exploration into this powerful technique! #RAG #TextRetrieval\n\nTweet 2:\nDid you know that RAG involves breaking down large documents into smaller vectors? This is where the magic happens - by matching those vectors to those of other similar documents, generating more accurate and relevant responses. The possibilities are endless! #NLP #RAG\n\nTweet 3:\nBut what about the different chunking strategies available? Let's dive deeper into the top five methods: Vectorization, Hierarchical Clustering, Latent Semantic Analysis, Textual Embedding Methods, and Document-Term Frequency-Based Approaches. Each one has its own strengths and weaknesses... #RAGTechniques\n\nTweet 4:\nSo why should you care about RAG? By incorporating this technique into your text retrieval systems, you can enjoy improved efficiency, accuracy, and adaptability to large document sizes. But don't just take our word for it - try out the research papers and newsletters in our resources section! #RAGBenefits #NLP",
+  "workflow_steps": [
+    {
+      "task": "analyze_draft",
+      "agent": "draft_analyzer",
+      "output": "Here's a technical summary for a Twitter thread based on the provided draft:\n\n**Title:** Exploring RAG Strategies in Text Retrieval: A Technical Analysis\n\n**Thread:**\n\n1/6 **Introduction**: Today, we'll delve into the world of RAG (Relevance-Aware Generation) strategies in text retrieval. A technique used to improve the accuracy and efficiency of information retrieval systems.\n\n2/6 **RAG Basics**: RAG is a method that involves chunking large documents into smaller pieces (vectors), matching them to those vectors, and feeding the most similar info to a Large Language Model (LLM) along with the query. This approach enhances the quality of generated responses.\n\n3/6 **Chunking Strategies**: We'll explore five popular chunking strategies for RAG:\n \n - Vectorization\n - Hierarchical clustering\n - Latent semantic analysis\n - Textual embedding methods\n - Document-term frequency-based approaches\n\n4/6 **Importance and Benefits**:\n\n- Enhanced text retrieval efficiency\n- Improved accuracy of generated responses\n- Better handling of large document sizes\n- Potential to incorporate domain-specific knowledge and nuances\n\n5/6 **Challenges and Limitations**: While RAG techniques have shown promise, they also come with challenges:\n \n - Difficulty in integrating multiple chunking strategies\n - Need for more data to train effective models\n - Ensuring model interpretability and explainability\n\n6/6 **Conclusion**: In conclusion, RAG is a powerful technique that can be employed to improve text retrieval systems. By understanding the different chunking strategies and their applications, researchers and developers can create more accurate and efficient AI models.\n\n**Resources:**\n\n- Daily Dose of Data Science (blog)\n- Substack newsletters\n- Research papers on Bi-encoders and Cross-encoders for Sentence Pair Similarity Scoring\n\n**Hashtags:** #RAG #TextRetrieval #NLP #MachineLearning #DataScience"
+    },
+    {
+      "task": "create_twitter_thread_plan",
+      "agent": "twitter_thread_planner",
+      "output": "Here's a Twitter thread based on the provided analysis:\n\nTweet 1:\nThe future of text retrieval is about to get a whole lot more efficient! Introducing RAG (Relevance-Aware Generation) strategies, which use chunking techniques to improve accuracy and efficiency in AI models. Stay tuned for our exploration into this powerful technique! #RAG #TextRetrieval\n\nTweet 2:\nDid you know that RAG involves breaking down large documents into smaller vectors? This is where the magic happens - by matching those vectors to those of other similar documents, generating more accurate and relevant responses. The possibilities are endless! #NLP #RAG\n\nTweet 3:\nBut what about the different chunking strategies available? Let's dive deeper into the top five methods: Vectorization, Hierarchical Clustering, Latent Semantic Analysis, Textual Embedding Methods, and Document-Term Frequency-Based Approaches. Each one has its own strengths and weaknesses... #RAGTechniques\n\nTweet 4:\nSo why should you care about RAG? By incorporating this technique into your text retrieval systems, you can enjoy improved efficiency, accuracy, and adaptability to large document sizes. But don't just take our word for it - try out the research papers and newsletters in our resources section! #RAGBenefits #NLP"
+    }
+  ],
+  "fallback_used": false,
+  "source": "firecrawl+ollama",
+  "tools_used": [
+    "ollama.generate",
+    "firecrawl.scrape"
+  ],
+  "tool_status": {
+    "firecrawl": true,
+    "ollama": true
+  },
+  "llm": {
+    "provider": "ollama",
+    "model": "ollama/llama3.2:1b",
+    "base_url": "http://localhost:11434"
+  },
+  "agent_config": {
+    "agents": {
+      "draft_analyzer": {
+        "role": "Draft Analyzer\n",
+        "goal": "Analyze draft and identify key ideas, sections and technical concepts\n",
+        "backstory": "You are a technical writer with years of experience writing, editing and reviewing technical blogs. You have a talent for understanding and documenting technical concepts.\n",
+        "verbose": false
+      },
+      "twitter_thread_planner": {
+        "role": "Twitter Thread Planner\n",
+        "goal": "Create a Twitter thread plan based on the provided draft analysis\n",
+        "backstory": "You are a technical writer with years of experience in converting long technical blogs into Twitter threads. You have a talent for breaking longform content into bite-sized tweets that are engaging and informative. And identify relevant urls to media that can be associated with a tweet.\n",
+        "verbose": false
+      },
+      "linkedin_post_planner": {
+        "role": "LinkedIn Post Planner\n",
+        "goal": "Create an engaging LinkedIn post based on the provided draft analysis\n",
+        "backstory": "You are a technical writer with extensive experience crafting technical LinkedIn content. You excel at distilling technical concepts into clear, authoritative posts that resonate with a professional audience while maintaining technical accuracy. You know how to balance technical depth with accessibility and incorporate relevant hashtags and mentions to maximize engagement.\n",
+        "verbose": false
+      }
+    },
+    "tasks": {
+      "analyze_draft": {
+        "description": "Analyze the markdown file at {draft_path} to create a developer-focused\ntechnical overview\n\n1. Map out the core idea that the blog discusses\n\n2. Identify key sections and what each section is about\n\n3. For each section, extract all URLs that appear inside image markdown syntax ![](image_url)\n\n4. You must associate these identified image urls to their correspoinding sections, so that we can use them with the tweets as media pieces\n\nFocus on details that are important for a comprehensive understanding of\nthe blog.\n",
+        "expected_output": "A technical analysis containing:\n- Blog title and core concept/idea\n- Key technical sections identified with their main points\n- Important code examples or technical concepts covered\n- Key takeaways for developers\n- Relevant urls to media that are associated with the key sections and can be associated with a tweet, this must be done\n"
+      },
+      "create_twitter_thread_plan": {
+        "description": "Develop an engaging Twitter thread based on the draft analysis provided and closely follow the writing style prvided in the {path_to_example_threads}\n\nThe thread should break down complex technical concepts into digestible, tweet-sized chunks\nthat maintain technical accuracy while being accessible.\n\nPlan should include:\n- A strong hook tweet that captures attention, it should be under 10 words, it must be same as the title of the blog\n- Logical flow from basic to advanced concepts\n- Code snippets or key technical highlights that fit Twitter's format\n- Relevant urls to media that are associated with the key sections and must be associated with their corresponding tweets\n- Clear takeaways for engineering audience\n\nMake sure to cover:\n- close follow the writing style provided in the {path_to_example_threads}\n- The core problem being solved\n- Key technical innovations or approaches\n- Interesting implementation details\n- Real-world applications or benefits\n- Call to action for the conclusion\n- Add relevant urls to each tweet that can be associated with a tweet\n\nFocus on creating a narrative that technical audiences will find valuable\nwhile keeping each tweet concise, accessible and impactful.\n",
+        "expected_output": "A Twitter thread with a list of tweets, where each tweet has the following:\n- content\n- urls to media that are associated with the tweet, whenever possible\n- is_hook: true if the tweet is a hook tweet, false otherwise\n"
+      },
+      "create_linkedin_post_plan": {
+        "description": "Develop a comprehensive LinkedIn post based on the draft analysis provided and closely follow the writing style prvided in the {path_to_example_linkedin}\n\nThe post should present technical content in a professional, long-form format\nwhile maintaining engagement and readability.\n\nPlan should include:\n- An attention-grabbing opening statement, it should be same as the title of the blog\n- Well-structured body that breaks down the technical content\n- Professional tone suitable for LinkedIn's business audience\n- One main blog URL placed strategically at the end of the post\n- Strategic use of line breaks and formatting\n- Relevant hashtags (3-5 maximum)\n\nMake sure to cover:\n- close follow the writing style provided in the {path_to_example_linkedin}\n- The core technical problem and its business impact\n- Key solutions and technical approaches\n- Real-world applications and benefits\n- Professional insights or lessons learned\n- Clear call to action\n\nFocus on creating content that resonates with both technical professionals\nand business leaders while maintaining technical accuracy.\n",
+        "expected_output": "A LinkedIn post plan containing:\n  - content\n  - a main blog url that is associated with the post\n"
+      }
+    }
+  },
+  "source_config": {
+    "agents_path": "C:\\Users\\hp\\Desktop\\BE\\Fichiers\\Les_projets\\AI_agents_Courses\\Rédacteur_contenu\\config\\planner_agents.yaml",
+    "tasks_path": "C:\\Users\\hp\\Desktop\\BE\\Fichiers\\Les_projets\\AI_agents_Courses\\Rédacteur_contenu\\config\\planner_tasks.yaml"
+  }
+}

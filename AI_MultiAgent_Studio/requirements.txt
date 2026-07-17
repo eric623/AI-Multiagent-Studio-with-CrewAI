@@ -1,0 +1,7 @@
+streamlit>=1.40.0
+pydantic>=2.9.0
+python-dotenv>=1.0.0
+crewai>=0.130.0
+crewai-tools>=0.40.0
+firecrawl-py>=2.0.0
+pytest>=8.0.0
